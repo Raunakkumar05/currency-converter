@@ -13,17 +13,6 @@ The used api has many more features such as crypto services, currency value from
 </br>
 </p>
 
-## Use :
-```
-git clone https://github.com/PrathameshDhande22/Currency-Converter.git
-cd Currency-Converter
-```
-
-**Note:** In the code Change the File Path for icon and main page.
-
-## Download :
-You can Download .exe file of this project. <a href="https://github.com/PrathameshDhande22/Currency-Converter/releases/download/v1.0/Currency_Converter.exe"><h3>Click Here </a> to Download</h3>
-
 ## Output :
 <h3>Click Here to watch Output :</h3>
 <a href="https://youtube.com/shorts/7459I5-Qgao?feature=share"> <img src="https://user-images.githubusercontent.com/87264935/198507221-14620318-eb3a-4592-8ada-4cbb562f35fb.png" width="180"></a>
@@ -43,7 +32,7 @@ You can Download .exe file of this project. <a href="https://github.com/Prathame
 <img src="https://user-images.githubusercontent.com/87264935/198502661-ec4acdab-c432-469b-af20-0c889aa4df2c.png">
 
 
-## Author : raunak kumar
+## Author : RAUNAK KUMAR
 
 
 
