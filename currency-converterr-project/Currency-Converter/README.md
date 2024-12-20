@@ -43,6 +43,7 @@ You can Download .exe file of this project. <a href="https://github.com/Prathame
 <img src="https://user-images.githubusercontent.com/87264935/198502661-ec4acdab-c432-469b-af20-0c889aa4df2c.png">
 
 
-## Author : Prathamesh Dhande
+## Author : raunak kumar
+
 
 
