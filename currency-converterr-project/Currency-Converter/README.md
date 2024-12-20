@@ -22,9 +22,6 @@ The used api has many more features such as crypto services, currency value from
 1. HomePage
 <img src="https://user-images.githubusercontent.com/87264935/198502665-b1097ab1-2521-403d-b1d7-321c0d05217e.png">
 
-2. About Page
-<img src="https://user-images.githubusercontent.com/87264935/198502649-a8bd577c-468c-488d-8297-0b321d2ef99a.png">
-
 3. Main Page
 <img src="https://user-images.githubusercontent.com/87264935/198502660-63053ab5-927e-4b93-8b9d-bb9091d569c7.png">
 
